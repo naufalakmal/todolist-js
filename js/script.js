@@ -24,7 +24,6 @@ input.addEventListener("keyup", (e) => {
             // clear input
             input.value = null;
 
-   
         }
         
     }
